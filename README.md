@@ -2,6 +2,8 @@
 
 # Arthur Vasconcellos 
 
+<figure><embed src="https://wakatime.com/share/@c3571930-71d1-4564-b911-67d9a00c2296/fed19110-affd-4eb0-a1be-8e857b50f06a.svg"></embed></figure>
+
 Computer Science Student.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Vasconcellos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursvpb/)](https://www.linkedin.com/in/arthursvpb/)
