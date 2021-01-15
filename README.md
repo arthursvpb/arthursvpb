@@ -10,7 +10,3 @@ Computer Science Student.
 
 Undergraduate student in Computer Science at Centro Universitário de João Pessoa (UNIPÊ) - Brazil.
 Contemplated with the only vacancy in the institution for the Ibero-American scholarship offered by Santander to attend a semester at the Faculty of Sciences of the University of Porto (FCUP) - Portugal.
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@c3571930-71d1-4564-b911-67d9a00c2296/a3b4692b-d68e-4c27-8e13-b62aaddc5a8f.png" />
-</a>
