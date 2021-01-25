@@ -2,7 +2,7 @@
 
 # Arthur Vasconcellos 
 
-Computer Science Student.
+Full Stack Developer | Computer Science Student
 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Vasconcellos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursvpb/)](https://www.linkedin.com/in/arthursvpb/)
 [![Website Badge](https://img.shields.io/badge/-https://arthurvasconcellos.com-1f4037?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
