@@ -1,9 +1,9 @@
 <img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="50"/>
 
 # Arthur Vasconcellos 
+<subhead>Full Stack Developer | Computer Science Student</subhead>
 
-<h2>Full Stack Developer | Computer Science Student</h2>
-
+## Technologies 
 ![Linkedin Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linkedin Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -20,6 +20,6 @@
 <p>Undergraduate student in Computer Science at Centro Universitário de João Pessoa (UNIPÊ) - Brazil.
 Contemplated with the only vacancy in the institution for the Ibero-American scholarship offered by Santander to attend a semester at the Faculty of Sciences of the University of Porto (FCUP) - Portugal.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Vasconcellos-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursvpb/)](https://www.linkedin.com/in/arthursvpb/)
-[![Website Badge](https://img.shields.io/badge/-https://arthurvasconcellos.com-1f4037?style=for-the-badge&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
-[![E-mail Badge](https://img.shields.io/badge/-contato@arthurvasconcellos.com-D44638?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@arthurvasconcellos.com)](mailto:contato@arthurvasconcellos.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Vasconcellos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursvpb/)](https://www.linkedin.com/in/arthursvpb/)
+[![Website Badge](https://img.shields.io/badge/-https://arthurvasconcellos.com-1f4037?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
+[![E-mail Badge](https://img.shields.io/badge/-contato@arthurvasconcellos.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@arthurvasconcellos.com)](mailto:contato@arthurvasconcellos.com)
