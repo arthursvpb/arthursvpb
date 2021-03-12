@@ -11,20 +11,17 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 ## Technologies
 
-<img align="left" height="20" src="./images/ubuntu.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/javascript.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/mongodb.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/express.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/react.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/nodejs.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/mysql.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/html5.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/css3.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/sass.png">
-<img style="padding-left: 5px" align="left" height="20" src="./images/bootstrap.png">
-
-<br>
-<hr>
+<img align="left" height="25" src="./images/ubuntu.png">
+<img align="left" height="25" src="./images/javascript.png">
+<img align="left" height="25" src="./images/mongodb.png">
+<img align="left" height="25" src="./images/express.png">
+<img align="left" height="25" src="./images/react.png">
+<img align="left" height="25" src="./images/nodejs.png">
+<img align="left" height="25" src="./images/mysql.png">
+<img align="left" height="25" src="./images/html5.png">
+<img align="left" height="25" src="./images/css3.png">
+<img align="left" height="25" src="./images/sass.png">
+<img align="left" height="25" src="./images/bootstrap.png">
 
 ## Contact
 
