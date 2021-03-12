@@ -11,8 +11,17 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 ## Technologies
 
-<img height="20" src="https://raw.githubusercontent.com/arthursvpb/arthursvpb/master/images/javascript.png">
-<img height="20" src="./images/mongodb.png">
+<img align="left" height="20" src="./images/ubuntu.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/javascript.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/mongodb.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/express.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/react.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/nodejs.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/mysql.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/html5.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/css3.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/sass.png">
+<img style="padding-left: 5px" align="left" height="20" src="./images/bootstrap.png">
 
 <br>
 <hr>
