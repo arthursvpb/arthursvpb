@@ -15,6 +15,7 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 <img align="left" height="25" src="./images/ubuntu.png">
 <img align="left" height="25" src="./images/javascript.png">
+<img align="left" height="25" src="./images/typescript.png">
 <img align="left" height="25" src="./images/mongodb.png">
 <img align="left" height="25" src="./images/express.png">
 <img align="left" height="25" src="./images/react.png">
