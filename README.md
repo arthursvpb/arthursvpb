@@ -15,25 +15,25 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 ### Currently working with
 
-<img align="left" height="25" src="./images/nodejs.svg">
-<img align="left" height="25" src="./images/typescript.svg">
-<img align="left" height="25" src="./images/aws.svg">
-<img align="left" height="25" src="./images/serverless.svg">
-<img align="left" height="25" src="./images/reactjs.svg">
-<img align="left" height="25" src="./images/docker.svg">
-<img align="left" height="25" src="./images/kubernetes.svg">
+<img align="left" height="40" src="./images/nodejs.svg">
+<img align="left" height="40" src="./images/typescript.svg">
+<img align="left" height="40" src="./images/aws.svg">
+<img align="left" height="40" src="./images/serverless.svg">
+<img align="left" height="40" src="./images/reactjs.svg">
+<img align="left" height="40" src="./images/docker.svg">
+<img align="left" height="40" src="./images/kubernetes.svg">
 
 <br />
 <br />
 
 ### Other skills
 
-<img align="left" height="25" src="./images/javascript.svg">
-<img align="left" height="25" src="./images/mongodb.svg">
-<img align="left" height="25" src="./images/mysql.svg">
-<img align="left" height="25" src="./images/html5.svg">
-<img align="left" height="25" src="./images/css3.svg">
-<img align="left" height="25" src="./images/bootstrap.svg">
+<img align="left" height="30" src="./images/javascript.svg">
+<img align="left" height="30" src="./images/mongodb.svg">
+<img align="left" height="30" src="./images/mysql.svg">
+<img align="left" height="30" src="./images/html5.svg">
+<img align="left" height="30" src="./images/css3.svg">
+<img align="left" height="30" src="./images/bootstrap.svg">
 
 <br />
 <br />
