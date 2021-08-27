@@ -29,10 +29,12 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 ### Other skills
 
 <img align="left" height="30" src="./images/javascript.svg">
+<img align="left" height="30" src="./images/express.svg">
 <img align="left" height="30" src="./images/mongodb.svg">
 <img align="left" height="30" src="./images/mysql.svg">
 <img align="left" height="30" src="./images/html5.svg">
 <img align="left" height="30" src="./images/css3.svg">
+<img align="left" height="30" src="./images/sass.svg">
 <img align="left" height="30" src="./images/bootstrap.svg">
 
 <br />
