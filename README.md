@@ -13,6 +13,10 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 ## Technologies
 
+### Working focused on
+
+### Other skills
+
 <img align="left" height="25" src="./images/ubuntu.png">
 <img align="left" height="25" src="./images/javascript.png">
 <img align="left" height="25" src="./images/typescript.png">
