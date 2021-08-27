@@ -13,7 +13,7 @@ Contemplated with the only vacancy in the institution for the Ibero-American sch
 
 ## Technologies
 
-### Working focused on
+### Currently working with
 
 ### Other skills
 
