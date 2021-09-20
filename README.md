@@ -2,7 +2,7 @@
 
 # Arthur Vasconcellos
 
-[![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-1f4037?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
+[![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
 
 <subhead>👨‍💻 Full Stack Developer | 🎓 Computer Science Student</subhead>
 
