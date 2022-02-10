@@ -4,12 +4,12 @@
 
 [![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/)
 
-<subhead>👨‍💻 Full Stack Developer | 🎓 Computer Science Student</subhead>
-
 ## About
 
-Undergraduate student in Computer Science at Centro Universitário de João Pessoa (UNIPÊ) - Brazil (2018-2022).
-Contemplated with the only vacancy in the institution for the Ibero-American scholarship offered by Santander to attend a semester at the Faculty of Sciences of the University of Porto (FCUP) - Portugal (2020-2020).
+* 👨‍💻 Mid. Full Stack Developer
+* 💻 2 years of experience in the web development world.
+* 🎓 Undergraduate student in Computer Science (2018-2022).
+* ✈️ Ibero-American scholarship student (2020-2020).
 
 ## Technologies
 
