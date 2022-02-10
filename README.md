@@ -7,9 +7,9 @@
 ## About
 
 * 👨‍💻 Mid. Full Stack Developer
-* 💻 2 years of experience in the web development world.
-* 🎓 Undergraduate student in Computer Science (2018-2022).
-* ✈️ Ibero-American scholarship student (2020-2020).
+* 💻 2 years of experience in the web development world
+* 🎓 Undergraduate student in Computer Science (2018-2022)
+* ✈️ Ibero-American scholarship student (2020-2020)
 
 ## Technologies
 
