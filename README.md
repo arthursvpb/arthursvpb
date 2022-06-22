@@ -26,17 +26,20 @@
 
 ## Other skills
 
-<img align="left" height="35" src="./images/aws.svg">
-<img align="left" height="35" src="./images/serverless.svg">
-<img align="left" height="35" src="./images/docker.svg">
-<img align="left" height="35" src="./images/kubernetes.svg">
-<img align="left" height="35" src="./images/express.svg">
-<img align="left" height="35" src="./images/mongodb.svg">
-<img align="left" height="35" src="./images/mysql.svg">
-<img align="left" height="35" src="./images/html5.svg">
-<img align="left" height="35" src="./images/css3.svg">
-<img align="left" height="35" src="./images/sass.svg">
-<img align="left" height="35" src="./images/bootstrap.svg">
+<img align="left" height="35" src="./images/next.svg" />
+<img align="left" height="35" src="./images/nest.svg" />
+<img align="left" height="35" src="./images/express.svg" />
+<img align="left" height="35" src="./images/docker.svg" />
+<img align="left" height="35" src="./images/aws.svg" />
+<img align="left" height="35" src="./images/serverless.svg" />
+<img align="left" height="35" src="./images/kubernetes.svg" />
+<img align="left" height="35" src="./images/mongodb.svg" />
+<img align="left" height="35" src="./images/mysql.svg" />
+<img align="left" height="35" src="./images/postgres.svg" />
+<img align="left" height="35" src="./images/html5.svg" />
+<img align="left" height="35" src="./images/css3.svg" />
+<img align="left" height="35" src="./images/sass.svg" />
+<img align="left" height="35" src="./images/bootstrap.svg" />
 
 <br />
 <br />
