@@ -6,36 +6,34 @@
 
 ## About
 
-* 👨‍💻 Mid. Full Stack Developer
-* 💻 2 years of experience in the web development world
-* 🎓 Undergraduate student in Computer Science (2018-2022)
-* ✈️ Ibero-American scholarship student (2020-2020)
+* 👨‍💻 Full Stack Developer
+* 💻 2+ years of web development experience
+* 🎓 Bachelor of Computer Science
+* ✈️ First place for the Ibero-American scholarship program at the University of Porto
 
-## Technologies
+### Main Tech Stack
 
-### Currently working with
-
-<img align="left" height="40" src="./images/nodejs.svg">
-<img align="left" height="40" src="./images/typescript.svg">
-<img align="left" height="40" src="./images/aws.svg">
-<img align="left" height="40" src="./images/serverless.svg">
-<img align="left" height="40" src="./images/reactjs.svg">
-<img align="left" height="40" src="./images/docker.svg">
-<img align="left" height="40" src="./images/kubernetes.svg">
+<img align="left" height="50" src="./images/javascript.svg" alt="JavaScript">
+<img align="left" height="50" src="./images/typescript.svg" alt="TypeScript">
+<img align="left" height="50" src="./images/nodejs.svg" alt="Node.js">
+<img align="left" height="50" src="./images/reactjs.svg" alt="React">
 
 <br />
 <br />
 
 ### Other skills
 
-<img align="left" height="30" src="./images/javascript.svg">
-<img align="left" height="30" src="./images/express.svg">
-<img align="left" height="30" src="./images/mongodb.svg">
-<img align="left" height="30" src="./images/mysql.svg">
-<img align="left" height="30" src="./images/html5.svg">
-<img align="left" height="30" src="./images/css3.svg">
-<img align="left" height="30" src="./images/sass.svg">
-<img align="left" height="30" src="./images/bootstrap.svg">
+<img align="left" height="35" src="./images/aws.svg">
+<img align="left" height="35" src="./images/serverless.svg">
+<img align="left" height="35" src="./images/docker.svg">
+<img align="left" height="35" src="./images/kubernetes.svg">
+<img align="left" height="35" src="./images/express.svg">
+<img align="left" height="35" src="./images/mongodb.svg">
+<img align="left" height="35" src="./images/mysql.svg">
+<img align="left" height="35" src="./images/html5.svg">
+<img align="left" height="35" src="./images/css3.svg">
+<img align="left" height="35" src="./images/sass.svg">
+<img align="left" height="35" src="./images/bootstrap.svg">
 
 <br />
 <br />
