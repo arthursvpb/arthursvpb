@@ -1,4 +1,6 @@
-<img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="40"/>
+<!--- <img src="" alt="Arthur Vasconcellos Banner" /> -->
+
+<img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="40" />
 
 # Arthur Vasconcellos
 
@@ -13,10 +15,10 @@
 
 ### Main Tech Stack
 
-<img align="left" height="50" src="./images/javascript.svg" alt="JavaScript">
-<img align="left" height="50" src="./images/typescript.svg" alt="TypeScript">
-<img align="left" height="50" src="./images/nodejs.svg" alt="Node.js">
-<img align="left" height="50" src="./images/reactjs.svg" alt="React">
+<img align="left" height="50" src="./images/javascript.svg" alt="JavaScript" />
+<img align="left" height="50" src="./images/typescript.svg" alt="TypeScript" />
+<img align="left" height="50" src="./images/nodejs.svg" alt="Node.js" />
+<img align="left" height="50" src="./images/reactjs.svg" alt="React" />
 
 <br />
 <br />
