@@ -26,7 +26,7 @@
 
 ## Other skills
 
-<img align="left" height="35" src="./images/next.svg" />
+<img align="left" height="35" src="./images/next.png" />
 <img align="left" height="35" src="./images/nest.svg" />
 <img align="left" height="35" src="./images/express.svg" />
 <img align="left" height="35" src="./images/docker.svg" />
