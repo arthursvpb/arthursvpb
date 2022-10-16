@@ -9,7 +9,7 @@
 ## About
 
 * 🌐 [arthurvasconcellos.com](https://arthurvasconcellos.com/)
-* 👨‍💻 Full Stack Developer
+* 👨‍💻 Software Engineer
 * 💻 3+ years of web development experience
 * 🎓 Bachelor of Computer Science
 * ✈️ First place for the Ibero-American scholarship program at the University of Porto
