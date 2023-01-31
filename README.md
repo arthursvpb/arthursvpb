@@ -8,13 +8,14 @@
 
 ## About
 
-* 🌐 [arthurvasconcellos.com](https://arthurvasconcellos.com/)
-* 👨‍💻 Software Engineer
-* 💻 4+ years of web development experience
-* 🎓 Bachelor of Computer Science
-* ✈️ First place for the Ibero-American scholarship program at the University of Porto
+- 🌐 [arthurvasconcellos.com](https://arthurvasconcellos.com/)
+- 👨‍💻 JavaScript Software Engineer
+- 💻 4+ years of Web Development experience
+- 🎓 Bachelor of Computer Science
+- 🥇 First place for the Ibero-American scholarship program at the University of Porto
+- 🇧🇷🇵🇹 Brazilian with Portuguese citizenship
 
-## Main Tech Stack
+<!-- ## Main Tech Stack
 
 <img align="left" height="50" src="./images/javascript.svg" alt="JavaScript" />
 <img align="left" height="50" src="./images/typescript.svg" alt="TypeScript" />
@@ -42,7 +43,7 @@
 <img align="left" height="35" src="./images/bootstrap.svg" />
 
 <br />
-<br />
+<br /> -->
 
 ## Contact
 
