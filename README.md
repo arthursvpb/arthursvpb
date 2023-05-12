@@ -8,12 +8,10 @@
 
 ## About
 
-- 🌐 [arthurvasconcellos.com](https://arthurvasconcellos.com/)
-- 👨‍💻 JavaScript Software Engineer
+- 👨‍💻 Software Engineer
+- 🎓 Computer Science Degree
 - 💻 4+ years of Web Development experience
-- 🎓 Bachelor of Computer Science
-- 🥇 First place for the Ibero-American scholarship program at the University of Porto
-- 🇧🇷🇵🇹 Brazilian with Portuguese citizenship
+- 🌐 [arthurvasconcellos.com](https://arthurvasconcellos.com/) (Legacy website to be remade)
 
 <!-- ## Main Tech Stack
 
