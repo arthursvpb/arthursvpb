@@ -11,7 +11,7 @@
 - 👨‍💻 Software Engineer
 - 🎓 Computer Science Degree
 - 💻 4+ years of Web Development experience
-- 🌐 <a href="https://arthurvasconcellos.com/" target="_blank">arthurvasconcellos.com</a> (Legacy website to be remade)
+- 🌐 <a href="https://arthurvasconcellos.com/" target="_blank" rel="noopener">arthurvasconcellos.com</a> (Legacy website to be remade)
 
 <!-- ## Main Tech Stack
 
