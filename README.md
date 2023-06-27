@@ -6,7 +6,7 @@
 
 <!--- [![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/) -->
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursvpb)](https://github.com/arthursvpb/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursvpb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About
 
