@@ -1,17 +1,29 @@
 <!--- <img src="" alt="Arthur Vasconcellos Banner" /> -->
 
-<img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="40" />
+<img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="35" />
 
-# Arthur Vasconcellos
+<!--- # Arthur Vasconcellos -->
 
 <!--- [![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/) -->
 
 ## About
 
-- 👨‍💻 Software Engineer
-- 🎓 Computer Science Degree
-- 💻 4+ years of Web Development experience
-- 🌐 <a href="https://arthurvasconcellos.com/" target="_blank" rel="noopener">arthurvasconcellos.com</a> (Legacy website to be remade)
+Experienced Software Engineer with over 5 years of hands-on experience in web development. Passionate about crafting efficient and user-centric web applications, I've contributed to various projects, ranging from health tech solutions to fintech products. My expertise lies in JavaScript and its ecosystem, along with proficiency in building microservices, web components, and responsive interfaces.
+
+🔧 Skills:
+
+- JavaScript · React.js · Next.js · Lit · TypeScript
+- AWS · Docker · Kubernetes · MySQL · MongoDB
+- Node.js · Web Components · Microservices
+- Unit, Integration and E2E Testing · TDD
+- HTML5 · CSS3 · SASS · Webpack · Gulp
+
+📚 Education:
+
+- Bachelor's Degree in Computer Science [2018-2023]
+- Pursuing Post-graduation in Software Architecture [2023-2024]
+
+🌱 Always eager to explore new technologies and contribute to innovative solutions. Open to collaborations and new challenges in the world of software development.
 
 <!-- ## Main Tech Stack
 
