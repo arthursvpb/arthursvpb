@@ -1,6 +1,8 @@
 <a href="https://arthurvasconcellos.com/" target="_blank">
   <div align="center">
     <img src="https://arthurvasconcellos.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" alt="Arthur Vasconcellos Website" width="35" />
+  </div>
+  <div align="center">
     <img src="https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/" />
   </div>
 </a>
