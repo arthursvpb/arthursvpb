@@ -1,10 +1,9 @@
-<!--- <img src="" alt="Arthur Vasconcellos Banner" /> -->
-
-<img src="https://arthurvasconcellos.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" alt="Arthur Vasconcellos Website" width="35" />
-
-<!--- # Arthur Vasconcellos -->
-
-<!--- [![Website Badge](https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/)](https://arthurvasconcellos.com/) -->
+<a href="https://arthurvasconcellos.com/" target="_blank">
+  <div align="center">
+    <img src="https://arthurvasconcellos.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" alt="Arthur Vasconcellos Website" width="35" />
+    <img src="https://img.shields.io/badge/-arthurvasconcellos.com-0f2027?style=flat-square&logo=xxxxxxx&logoColor=white&link=https://arthurvasconcellos.com/" />
+  </div>
+</a>
 
 ## About
 
@@ -54,9 +53,3 @@ Experienced Software Engineer with over 5 years of hands-on experience in web de
 
 <br />
 <br /> -->
-
-## Contact
-
-[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Vasconcellos-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthursvpb/)](https://www.linkedin.com/in/arthursvpb/)
-
-<!-- [![E-mail Badge](https://img.shields.io/badge/-contato@arthurvasconcellos.com-D44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@arthurvasconcellos.com)](mailto:contato@arthurvasconcellos.com) -->
