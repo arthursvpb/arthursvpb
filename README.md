@@ -1,6 +1,6 @@
 <!--- <img src="" alt="Arthur Vasconcellos Banner" /> -->
 
-<img src="https://arthurvasconcellos.com/img/av-logo.png" alt="Arthur Vasconcellos Website" width="35" />
+<img src="https://arthurvasconcellos.com/_next/image?url=%2Ffavicon.ico&w=64&q=75" alt="Arthur Vasconcellos Website" width="35" />
 
 <!--- # Arthur Vasconcellos -->
 
