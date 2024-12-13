@@ -9,7 +9,7 @@
 
 ## About
 
-Experienced Software Engineer with over 5 years of hands-on experience in web development. Passionate about crafting efficient and user-centric web applications, I've contributed to various projects, ranging from health tech solutions to fintech products. My expertise lies in JavaScript and its ecosystem, along with proficiency in building microservices, web components, and responsive interfaces.
+Experienced Software Engineer with over 6 years of hands-on experience in web development. Passionate about crafting efficient and user-centric web applications, I've contributed to various projects, ranging from health tech solutions to fintech products. My expertise lies in JavaScript and its ecosystem, along with proficiency in building microservices, web components, and responsive interfaces.
 
 🔧 Skills:
 
