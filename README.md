@@ -9,7 +9,7 @@
 
 ## About
 
-Experienced Software Engineer with over 6 years of hands-on experience in web development. Passionate about crafting efficient and user-centric web applications, I've contributed to various projects, ranging from health tech solutions to fintech products. My expertise lies in JavaScript and its ecosystem, along with proficiency in building microservices, web components, and responsive interfaces.
+Senior Software Engineer with 7 years of experience, I specialize in creating web applications that are straightforward and effective, particularly within the healthcare and fintech sectors. Having worked in both startups and large corporations, I am committed to leveraging technology to solve real-world challenges.
 
 🔧 Skills:
 
@@ -22,11 +22,11 @@ Experienced Software Engineer with over 6 years of hands-on experience in web de
 📚 Education:
 
 - Bachelor's Degree in Computer Science [2018-2023]
-- Pursuing Post-graduation in Software Architecture [2023-2024]
+- Postgraduate Degree in Software Architecture [2023-2024]
 
-🌱 Always eager to explore new technologies and contribute to innovative solutions. Open to collaborations and new challenges in the world of software development.
+🌱 I’m all about using the latest tech to improve products and user experiences. I love teaming up with people who are passionate about making a difference through innovation.
 
-<!-- ## Main Tech Stack
+## Main Tech Stack
 
 <img align="left" height="50" src="./images/javascript.svg" alt="JavaScript" />
 <img align="left" height="50" src="./images/typescript.svg" alt="TypeScript" />
@@ -54,4 +54,4 @@ Experienced Software Engineer with over 6 years of hands-on experience in web de
 <img align="left" height="35" src="./images/bootstrap.svg" />
 
 <br />
-<br /> -->
+<br /> 
